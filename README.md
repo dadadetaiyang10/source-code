@@ -1,2 +1,2 @@
 # source-code
-practice of using repository
+day01-practice of using repository
